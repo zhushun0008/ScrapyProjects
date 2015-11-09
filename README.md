@@ -11,5 +11,13 @@ Crawl from top250 movies from movie.douban.com/top250. Extract title, descriptio
 * define custom spider
 * define custom item
 * edit pipelines for post-processing data[optional]
+* 
+
+### 03 Scrapy And MongoDB
+* MongoDB - a database 
+* mongovue - visualization for MongoDB
+* pymongo
+* Use pipelines to store crawled data into MongoDB
+*
 
 
