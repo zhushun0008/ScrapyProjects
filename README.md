@@ -28,7 +28,7 @@ Crawl from top250 movies from movie.douban.com/top250. Extract title, descriptio
       's3': None,
   }
 ```
-  * [csdn](http://blog.csdn.net/liyuetao680/article/details/48313313)
-  * [stackoverflow](http://stackoverflow.com/questions/32132482/scrapy-shell-error)
+      * [csdn](http://blog.csdn.net/liyuetao680/article/details/48313313)
+      * [stackoverflow](http://stackoverflow.com/questions/32132482/scrapy-shell-error)
 
 
